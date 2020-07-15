@@ -9,36 +9,36 @@ echo " "
 echo " "
 echo '
                   
-█░░█ █▀▀█ █▀▀▄ █▀▀█ ▀▀█▀▀ █▀▀ 
-█░░█ █░░█ █░░█ █▄▄█ ░░█░░ █▀▀ 
-░▀▀▀ █▀▀▀ ▀▀▀░ ▀░░▀ ░░▀░░ ▀▀▀ 
+                      █░░█ █▀▀█ █▀▀▄ █▀▀█ ▀▀█▀▀ █▀▀ 
+                      █░░█ █░░█ █░░█ █▄▄█ ░░█░░ █▀▀ 
+                      ░▀▀▀ █▀▀▀ ▀▀▀░ ▀░░▀ ░░▀░░ ▀▀▀ 
 '|lolcat
 echo " "
 echo " "
 sleep 6.0
 clear
-echo -e "$red                         ChEcKiNg..>$rset"
+echo -e "$red                       Checking..>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg...>$rset"
+echo -e "$red                       Checking...>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg....>$rset"
+echo -e "$red                       Checking....>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg.....>$rset"
+echo -e "$red                       Checking.....>$rset"
 sleep 2.0
 clear
 echo " "
 echo " "
-echo -e "$grn                updating the MSF please wait$rset"
+echo -e "$grn              updating the MSF please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf MSF
 git clone https://github.com/Anonymoush4cker7/MSF
 clear
 echo " "
-echo -e "$grn               MSF has been updated check it now...$rset"
+echo -e "$grn           MSF has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME/MSF
