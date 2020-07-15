@@ -53,3 +53,4 @@ fi
 echo " "
 echo -e "$grn       Metasploit Has Been Repaired Successfully$rset"
 echo " "
+cd $HOME
